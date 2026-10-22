@@ -1,16 +1,32 @@
-## Hi there 👋
+¡Hola! Soy Davia Oliva Mendoza 👋
 
-<!--
-**Daviaoliva/Daviaoliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
 
-Here are some ideas to get you started:
+* 🎓 Estudio Ingeniería de Software en la Facultad de Ingeniería Electromecánica de la Universidad de Colima.
+* 📍 Soy de Manzanillo, Colima, México.
+* 🌱 Actualmente estoy aprendiendo programación en C, Git y GitHub.
+* 🎯 Mi meta es convertirme en una gran ingeniera de software y crear aplicaciones útiles para las personas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Mis intereses
+
+* 💻 La programación y el desarrollo de aplicaciones.
+* 🎨 El diseño de interfaces.
+* 📚 Aprender nuevas tecnologías.
+
+Tecnologías que quiero aprender
+
+* C
+* Python
+* Git y GitHub
+* UML
+* HTML y CSS
+* JavaScript
+
+Contacto
+
+* Correo institucional: doliva0@ucol.mx
+
+⸻
+
+✨ Siempre aprendiendo algo nuevo cada día.
 -->
